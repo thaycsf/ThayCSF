@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou a Thayná Cristina (@ThayCSF), e sou de Belo Horizonte/MG.
 - 👀 Estou interessada em aprender cada vez mais sobre o mundo digital, voltado para o desenvolvimento full-stack.
-- 🌱 Atualmente estou aprendendo sobre NodeJS, React, GraphQL, e algumas outras linguagens e framework para front e back-end.
+- 🌱 Atualmente estou aprendendo sobre c# e algumas outras linguagens e frameworks para back-end.
 - 📫 Contato: thaynacristinadsf@gmail.com
 
 <!---
