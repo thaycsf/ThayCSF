@@ -1,4 +1,5 @@
 ## Hello! Eu sou a Thayná, mas pode me chamar de Thay.
+Atuo na programação back-end mas sou uma eterna aprendiz em tecnologia!
 <div align="center">
   <a href="https://github.com/ThayCSF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaycsf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
