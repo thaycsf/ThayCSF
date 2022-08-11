@@ -1,7 +1,7 @@
 ## Hello internet people! 👩🏽‍💻
 
 - I'm Thayná, but you can call me Thay. 😄
-- As a software developer at Juntos Somos Mais, I work with back-end software (C#, .NET, ASP NET CORE). I've also dabbled in front-end for a while, and I strive to keep improving my skills in this area.
+- As a software developer at Juntos Somos Mais, I work with back-end software (C#, .NET, ASP NET CORE). I've also dabbled in front-end for a while, and I strive to keep improving my skills in the tech area.
 - Any knowledge or constructive criticism is welcome!
 
 <div align="center">
