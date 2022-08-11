@@ -1,5 +1,9 @@
-## Hello! Pode me chamar de Thay.
-Atuo na programação back-end em c#, .NET, ASP NET CORE, mas estou sempre aprendendo alguma coisa sobre tecnologia!
+## Hello internet people! 👩🏽‍💻
+
+- I'm Thayná, but you can call me Thay. 😄
+- As a software developer at Juntos Somos Mais, I work with back-end software (C#, .NET, ASP NET CORE). I've also dabbled in front-end for a while, and I strive to keep improving my skills in this area.
+- Any knowledge or constructive criticism is welcome!
+
 <div align="center">
   <a href="https://github.com/ThayCSF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaycsf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
