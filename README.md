@@ -17,7 +17,7 @@
 </div>
   
 <div align="center">
-  <a href="https://app.daily.dev/Thay"><img src="https://api.daily.dev/devcards/d50da05343274ec886845a4dfcd09131.png?r=ykw" width="250" alt="Thayna Cristina da Silva Ferreira's Dev Card"/></a>
+  <a href="https://app.daily.dev/Thay"><img src="https://github.com/ThayCSF/ThayCSF/blob/main/devcard.svg" width="250" alt="ThayCSF"/></a>
 </div>
   
 ##  
