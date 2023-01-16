@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/ThayCSF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaycsf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaycsf&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="[![Thay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThayCSF&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThayCSF)](https://github.com/anuraghazra/github-readme-stats)"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thay-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
