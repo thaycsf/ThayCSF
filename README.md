@@ -4,11 +4,6 @@
 - As a software developer at Juntos Somos Mais, I work with back-end software (C#, .NET, ASP NET CORE). I've also dabbled in front-end for a while, and I strive to keep improving my skills in the tech area.
 - Any knowledge or constructive criticism is welcome!
 
-<div align="center">
-  <a href="https://github.com/ThayCSF">
-  <img height="180em" src="[![Thay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThayCSF&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"/>
-  <img height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThayCSF)](https://github.com/anuraghazra/github-readme-stats)"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thay-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Thay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
