@@ -12,7 +12,7 @@
 </div>
   
 <div align="center">
-  <a href="https://app.daily.dev/Thay"><img src="https://github.com/ThayCSF/ThayCSF/blob/main/devcard.svg" width="250" alt="ThayCSF"/></a>
+  <a href="https://app.daily.dev/Thay"><img src="https://github.com/thaycsf/thaycsf/blob/main/devcard.svg" width="250" alt="thaycsf"/></a>
 </div>
   
 ##  
