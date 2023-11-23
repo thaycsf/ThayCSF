@@ -1,8 +1,8 @@
 ## Hello internet people! 👩🏽‍💻
 
 - I'm Thayná, but you can call me Thay. 😄
-- As a software developer at Juntos Somos Mais, I work with back-end software (C#, .NET, ASP NET CORE). I've also dabbled in front-end for a while, and I strive to keep improving my skills in the tech area.
-- Any knowledge or constructive criticism is welcome!
+- As a software developer at Juntos Somos Mais, I work with back-end software (C#, .NET, ASP NET). I've also dabbled in front-end for a while, and I strive to keep improving my skills in the tech area.
+- Any knowledge or constructive criticism is welcomed!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Thay-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
