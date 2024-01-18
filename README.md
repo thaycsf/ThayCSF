@@ -1,18 +1,36 @@
-## Hello internet people! 👩🏽‍💻
+<div align="center">
+[![Hello World, I'm Thayná!](assets/header.gif)](https://github.com/thaycsf)
+Background GIF by [Nomisful](https://pin.it/5hyub0uuc) on [Pinterest](https://www.pinterest.com/).
 
-- I'm Thayná, but you can call me Thay. 😄
-- As a software developer at Juntos Somos Mais, I work with back-end software (C#, .NET, ASP NET). I've also dabbled in front-end for a while, and I strive to keep improving my skills in the tech area.
-- Any knowledge or constructive criticism is welcomed!
+## ⚡ About me:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Thay-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Thay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+- You can call me Thay 😄
+- Originally graduated in Biomedicine, I shifted into tech and got passionate about this new world
+- Currently, I work at Juntos Somos Mais on a B2B marketplace revolutionizing the construction industry.
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/thaynacsferreira/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:thaynacristinadsf@gmail.com?subject=Hello%20Thay,%20From%20Github)
+
+## 💻 My Tech Stack:
+
+[![CSharp, Dotnet, Azure, Aws, Docker, RabbiMQ](https://skillicons.dev/icons?i=cs,dotnet,azure,aws,docker,rabbitmq)](https://skillicons.dev)
+
 </div>
+
+<div align="center">
   
-##  
-<div> 
-  <a href = "mailto:thaynacristinadsf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thaynacsferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thaycsf&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaycsf&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
+
+## 🎮 When I'm AFK:
+
+![PlayStation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) &nbsp;
+![Twitch](https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white) &nbsp;
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
+![Youtube](https://img.shields.io/badge/Youtube-E50914?style=for-the-badge&logo=youtube&logoColor=white) &nbsp;
+
 </div>
