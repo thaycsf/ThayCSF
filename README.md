@@ -1,10 +1,8 @@
 <div align="center">
-[![Hello World, I'm Thayná!](assets/header.gif)](https://github.com/thaycsf)
-Background GIF by [Nomisful](https://pin.it/5hyub0uuc) on [Pinterest](https://www.pinterest.com/).
-
+  
 ## ⚡ About me:
 
-- You can call me Thay 😄
+- **Hello World! I'm Thayná but, you can call me Thay** 😄
 - Originally graduated in Biomedicine, I shifted into tech and got passionate about this new world
 - Currently, I work at Juntos Somos Mais on a B2B marketplace revolutionizing the construction industry.
 
