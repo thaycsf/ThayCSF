@@ -4,7 +4,7 @@
 
 - **Hello World! I'm Thayná but, you can call me Thay** 😄
 - Originally graduated in Biomedicine, I shifted into tech and got passionate about this new world
-- Currently, I work at Juntos Somos Mais on a B2B marketplace revolutionizing the construction industry.
+- Currently, I work at Juntos Somos Mais on a B2B marketplace revolutionizing the construction industry
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/thaynacsferreira/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:thaynacristinadsf@gmail.com?subject=Hello%20Thay,%20From%20Github)
