@@ -18,11 +18,9 @@
 <div align="center">
   
 ## 🏆 My Stats:
-
-<p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thaycsf&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaycsf&layout=compact&theme=dark" />&nbsp;&nbsp;
-</p>
+[![Thay's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=thaycsf&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/thaycsf)
+<br>
+<img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaycsf&layout=compact&theme=dark" />&nbsp;&nbsp;
 
 ## 🎮 When I'm AFK:
 
